@@ -39,7 +39,7 @@ Installation
 
 Clone the repository:
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/sesha5062-afk/NetSentry
 cd NetSentry
 
 Create a virtual environment:
